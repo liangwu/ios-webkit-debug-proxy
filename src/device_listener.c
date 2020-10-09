@@ -43,7 +43,7 @@ static int wsa_init = 0;
 // straight-forward.
 //
 
-#define USBMUXD_SOCKET_PORT 27015
+#define USBMUXD_SOCKET_PORT 37015
 #define USBMUXD_FILE_PATH "/var/run/usbmuxd"
 #define TYPE_PLIST 8
 
